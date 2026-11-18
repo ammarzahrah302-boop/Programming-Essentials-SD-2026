@@ -1,6 +1,4 @@
-void setup() {
-  int tafel = 3;
-  for (int i = tafel; i <= tafel * 10; i += tafel) {
-    println(i);
-  }
+int tafel = 5;
+for (int i = 5; i <= 50; i += 5) {
+  println(i);
 }
